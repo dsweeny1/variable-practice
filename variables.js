@@ -8,3 +8,5 @@ var number3 = 3
 
 var boolean1 = true
 var boolean2 = false
+
+var string = "I hope this works"
